@@ -52,7 +52,7 @@ projeto-tarefas/
 1. Clone o repositório:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/mariaantoniadev/projeto-tarefas.git
 ```
 
 2. Instale as dependências do backend:
