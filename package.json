@@ -1,0 +1,26 @@
+{
+  "name": "projeto-tarefas",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Este projeto é uma aplicação de lista de tarefas (To-Do List) que permite:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariaantoniadev/projeto-tarefas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariaantoniadev/projeto-tarefas/issues"
+  },
+  "homepage": "https://github.com/mariaantoniadev/projeto-tarefas#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mysql2": "^3.15.3"
+  }
+}
