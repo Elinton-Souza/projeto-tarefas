@@ -42,7 +42,7 @@ projeto-tarefas/
 │   ├── index.html     # Estrutura da interface
 │   ├── script.js      # Interações com a API
 │   └── style.css      # Estilos visuais
-└── node_modules/      # Dependências do Node.js
+└── database.sql/      # SQL da minha base de dados
 ```
 
 ---
